@@ -30,8 +30,8 @@ I'm **Nguyen Thi Thuy**, a **3rd-year student (K22 cohort)** in the **Faculty of
 ---
 
 ### 📂 Featured Projects
-- 🔗 **[Smart Air Quality Monitoring Station](https://github.com/NguyenThuy-os/DESIGN_OF_AIR_QUALITY_MONITORING_STATION_MODEL)**
-- 🔗 **[Smart Door Lock System with Remote Control](https://github.com/NguyenThuy-os/DESIGN_OF_SMART_DOOR_LOCK_SYSTEM_REMOTE_CONTROL_VIA_BLYNK_APPLICATION)**
+- 🔗 **[Smart Air Quality Monitoring Station](https://github.com/NguyenThuy-os/DESIGN-OF-AIR-QUALITY-MONITORING-STATION-MODEL)**
+- 🔗 **[Smart Door Lock System with Remote Control](https://github.com/NguyenThuy-os/DESIGN-OF-SMART-DOOR-LOCK-SYSTEM-REMOTE-CONTROL-VIA-BLYNK-APPLICATION)**
 - 🔗 **[Semantic Segmentation of Spectrogram Signals](https://github.com/NguyenThuy-os/semantic-segmentation)**
 
 ---
